@@ -1,0 +1,64 @@
+/******************************
+GENERAL
+******************************/
+
+body{
+    background-color: #FF99CC;
+}
+
+/******************************
+NAME HEADER-CHRIS PETRICK
+******************************/
+
+#name {
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Erica One', cursive;
+  color: #000000;
+  font-size: 6.5em;
+  margin: 0;
+  text-shadow: 4px 4px 4px #4D4D4D
+
+}
+a{
+  text-decoration: none;
+}
+
+div{
+  color: black;
+}
+/* RED BANNER */
+#dayOne {
+  background-color: red;
+  width: 50%:
+  }
+h2 {
+  font-family: 'Shadows Into Light Two', cursive;
+  font-weight:bold;
+  font-size:20px;
+  margin: 1px;
+}
+h3 {
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: .95em;
+  margin: 5px;
+}
+  /* WHITE BANNER */
+#dayTwo {
+  background-color: white;
+  width: 100%;
+}
+/* GREEN BANNER */
+#dayThree {
+  background-color: green;
+  width: 100%;
+}
+/* FOOTER */
+
+#footer {
+  color: grey;
+
+}
